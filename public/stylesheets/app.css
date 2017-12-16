@@ -1,0 +1,11 @@
+i.icon, i.icons {
+    font-size: 1.5em;
+}
+
+.container.main{
+    margin-top: 5.0em;
+}
+
+#sameline{
+    display : inline;
+}
