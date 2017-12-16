@@ -4,7 +4,7 @@
   "description": "Blog App which follows Restful Routing Protocol",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "Shrey Sudan",
   "license": "ISC",
